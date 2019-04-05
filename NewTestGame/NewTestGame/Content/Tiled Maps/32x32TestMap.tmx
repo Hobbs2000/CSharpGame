@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="150" height="80" tilewidth="32" tileheight="32" nextobjectid="8">
+ <tileset firstgid="1" name="goodly-2x" tilewidth="32" tileheight="32" tilecount="256" columns="16">
+  <image source="../Tilesets/goodly-2x.png" width="512" height="512"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="150" height="80">
+  <data encoding="base64" compression="zlib">
+   eJzt1rENgDAMBMDQZS3ELMAEwPq4oKCjARkld9LLLlx86VIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgF7Vaw6pLQAA/qs+n8Cn/OrAm+bIElmzi9CULbJHjuwiNGe67WNaCwAAAAAAAAAAAAAAAAAAAAAAgL6dIhMDKw==
+  </data>
+ </layer>
+ <layer name="CollidableLayer1" width="150" height="80">
+  <data encoding="base64" compression="zlib">
+   eJzt2kEKglAARVFxBxXVuFpBtf+99YMkB4mWvoTPOfCgSWB0EZHfNAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAsJxN2bZst/aFUJVT2bnssvaFUBVdkaArhuzLDgM7jnxXVyytbaZ19ex2rE/oc78iQVck6Kp+3TvKb/bpfWb3HD/0TNT2Puuqft1//M3m9qCr+umKBF2RoCsSdEWCrkjQFQm6IkFXJOiKBF2RoCsSdEWCrkj4pavnhs62T9nttfsffh/r+LWruXOvqpuuSNAVCboiQVck6IoEXZGgKxJ0RYKuSNAVCboiQVck6IqEa/M+t/LPOSPz9gBAxGj1
+  </data>
+ </layer>
+ <objectgroup name="ObjLayer1">
+  <object id="1" name="SpawnPoint" type="SpawnPoint" x="1813" y="1523" width="23" height="32"/>
+  <object id="3" name="GroundSpawn" type="SpawnGround" x="1696.67" y="1568" width="448" height="32"/>
+  <object id="4" type="SpawnGround" x="2624.06" y="1279.94" width="95.697" height="31.3333"/>
+  <object id="6" type="SpawnGround" x="2144.67" y="1409" width="255.333" height="31.3333"/>
+  <object id="7" type="SpawnGround" x="2161.75" y="2048.25" width="445.5" height="31.75"/>
+ </objectgroup>
+</map>

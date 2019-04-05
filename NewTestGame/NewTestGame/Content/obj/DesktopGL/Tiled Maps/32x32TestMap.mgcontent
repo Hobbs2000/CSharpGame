@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/hobbs/Google Drive/Personal Stuff/NewTestGame/NewTestGame/Content/Tiled Maps/32x32TestMap.tmx</SourceFile>
+  <SourceTime>2017-01-24T22:14:00.6460356-06:00</SourceTime>
+  <DestFile>C:/Users/hobbs/Google Drive/Personal Stuff/NewTestGame/NewTestGame/Content/bin/DesktopGL/Tiled Maps/32x32TestMap.xnb</DestFile>
+  <DestTime>2017-02-17T16:38:13.8099507-06:00</DestTime>
+  <Importer>TiledMapImporter</Importer>
+  <ImporterTime>2017-02-17T16:38:01.6145146-06:00</ImporterTime>
+  <Processor>TiledMapProcessor</Processor>
+  <ProcessorTime>2017-02-17T16:38:01.6145146-06:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

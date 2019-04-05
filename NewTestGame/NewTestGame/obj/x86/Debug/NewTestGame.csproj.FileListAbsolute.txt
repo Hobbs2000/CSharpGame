@@ -1,0 +1,111 @@
+c:\users\hobbs\documents\visual studio 2015\Projects\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\16x16TestMap.xnb
+c:\users\hobbs\documents\visual studio 2015\Projects\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\characters.xnb
+c:\users\hobbs\documents\visual studio 2015\Projects\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Final Python Project Game .xnb
+c:\users\hobbs\documents\visual studio 2015\Projects\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\MarioTileset.xnb
+c:\users\hobbs\documents\visual studio 2015\Projects\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\NewTest16x16Tileset.xnb
+c:\users\hobbs\documents\visual studio 2015\Projects\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\StandingCharacter.xnb
+c:\users\hobbs\documents\visual studio 2015\Projects\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Test16x16Tileset.xnb
+c:\users\hobbs\documents\visual studio 2015\Projects\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\TestMap2.xnb
+c:\users\hobbs\documents\visual studio 2015\Projects\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\TestNezMap.xnb
+c:\users\hobbs\documents\visual studio 2015\Projects\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\OpenTK.dll.config
+c:\users\hobbs\documents\visual studio 2015\Projects\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\NewTestGame.exe
+c:\users\hobbs\documents\visual studio 2015\Projects\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\NewTestGame.pdb
+c:\users\hobbs\documents\visual studio 2015\Projects\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\MonoGame.Framework.dll
+c:\users\hobbs\documents\visual studio 2015\Projects\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Nez.dll
+c:\users\hobbs\documents\visual studio 2015\Projects\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\NVorbis.dll
+c:\users\hobbs\documents\visual studio 2015\Projects\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\OpenTK.dll
+c:\users\hobbs\documents\visual studio 2015\Projects\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Nez.pdb
+c:\users\hobbs\documents\visual studio 2015\Projects\NewTestGame\NewTestGame\obj\x86\Debug\NewTestGame.exe
+c:\users\hobbs\documents\visual studio 2015\Projects\NewTestGame\NewTestGame\obj\x86\Debug\NewTestGame.pdb
+c:\users\hobbs\documents\visual studio 2015\Projects\NewTestGame\NewTestGame\obj\x86\Debug\NewTestGame.csprojResolveAssemblyReference.cache
+C:\Users\hobbs\Google Drive\Other\NewTestGame\NewTestGame\obj\x86\Debug\NewTestGame.exe
+C:\Users\hobbs\Google Drive\Other\NewTestGame\NewTestGame\obj\x86\Debug\NewTestGame.pdb
+C:\Users\hobbs\Google Drive\Other\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\OpenTK.dll.config
+C:\Users\hobbs\Google Drive\Other\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\NewTestGame.exe
+C:\Users\hobbs\Google Drive\Other\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\NewTestGame.pdb
+C:\Users\hobbs\Google Drive\Other\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\MonoGame.Framework.dll
+C:\Users\hobbs\Google Drive\Other\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Nez.dll
+C:\Users\hobbs\Google Drive\Other\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\NVorbis.dll
+C:\Users\hobbs\Google Drive\Other\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\OpenTK.dll
+C:\Users\hobbs\Google Drive\Other\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Nez.pdb
+C:\Users\hobbs\Google Drive\Other\NewTestGame\NewTestGame\obj\x86\Debug\NewTestGame.csprojResolveAssemblyReference.cache
+C:\Users\hobbs\Google Drive\Other\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\desktop.ini
+C:\Users\hobbs\Google Drive\Other\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Sound\desktop.ini
+C:\Users\hobbs\Google Drive\Other\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Sound\Music\desktop.ini
+C:\Users\hobbs\Google Drive\Other\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Sound\Music\forest.xnb
+C:\Users\hobbs\Google Drive\Other\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Sprites\desktop.ini
+C:\Users\hobbs\Google Drive\Other\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Sprites\OpenChest.xnb
+C:\Users\hobbs\Google Drive\Other\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Sprites\OpenDoor.xnb
+C:\Users\hobbs\Google Drive\Other\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Sprites\StandingCharacter.xnb
+C:\Users\hobbs\Google Drive\Other\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Tiled Maps\16x16TestMap.xnb
+C:\Users\hobbs\Google Drive\Other\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Tiled Maps\desktop.ini
+C:\Users\hobbs\Google Drive\Other\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Tiled Maps\TestMap2.xnb
+C:\Users\hobbs\Google Drive\Other\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Tiled Maps\TestNezMap.xnb
+C:\Users\hobbs\Google Drive\Other\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Tilesets\characters.xnb
+C:\Users\hobbs\Google Drive\Other\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Tilesets\desktop.ini
+C:\Users\hobbs\Google Drive\Other\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Tilesets\MarioTileset.xnb
+C:\Users\hobbs\Google Drive\Other\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Tilesets\NewTest16x16Tileset.xnb
+C:\Users\hobbs\Google Drive\Other\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Tilesets\Test16x16Tileset.xnb
+C:\Users\hobbs\Google Drive\Other\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Sprites\ClosedChest.xnb
+C:\Users\hobbs\Google Drive\Other\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Sprites\ClosedDoor.xnb
+C:\Users\hobbs\Google Drive\Other\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Sprites\WalkingSpriteSheet.xnb
+C:\Users\hobbs\Google Drive\Other\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Tiled Maps\32x32TestMap.xnb
+C:\Users\hobbs\Google Drive\Other\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Tilesets\goodly-2x.xnb
+C:\Users\hobbs\Google Drive\Other\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Sprites\BasicPlayerSprite.xnb
+C:\Users\hobbs\Google Drive\Other\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Sprites\DefaultPlayer.xnb
+C:\Users\hobbs\Google Drive\Other\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Sprites\DefaultEnemy.xnb
+C:\Users\hobbs\Google Drive\Other\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Sprites\DefaultSmallEnemy.xnb
+C:\Users\hobbs\Google Drive\Other\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Sound\Music\forest.ogg
+C:\Users\hobbs\Google Drive\Other\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Sound\Music\WelcomeToTheJungle.ogg
+C:\Users\hobbs\Google Drive\Other\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Sound\Music\WelcomeToTheJungle.xnb
+C:\Users\hobbs\Google Drive\Other\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Sound\Music\SecondTest.xnb
+C:\Users\hobbs\Google Drive\Other\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Sound\Music\SecondTest.ogg
+C:\Users\hobbs\Google Drive\Other\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Sound\Music\Chiptune Stronger than you.ogg
+C:\Users\hobbs\Google Drive\Other\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Sound\Music\Chiptune Stronger than you.xnb
+C:\Users\hobbs\Google Drive\Personal Stuff\NewTestGame\NewTestGame\obj\x86\Debug\NewTestGame.exe
+C:\Users\hobbs\Google Drive\Personal Stuff\NewTestGame\NewTestGame\obj\x86\Debug\NewTestGame.pdb
+C:\Users\hobbs\Google Drive\Personal Stuff\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\desktop.ini
+C:\Users\hobbs\Google Drive\Personal Stuff\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Sound\desktop.ini
+C:\Users\hobbs\Google Drive\Personal Stuff\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Sound\Music\desktop.ini
+C:\Users\hobbs\Google Drive\Personal Stuff\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Sprites\desktop.ini
+C:\Users\hobbs\Google Drive\Personal Stuff\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Tiled Maps\desktop.ini
+C:\Users\hobbs\Google Drive\Personal Stuff\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Tilesets\desktop.ini
+C:\Users\hobbs\Google Drive\Personal Stuff\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Sound\Music\Chiptune Stronger than you.ogg
+C:\Users\hobbs\Google Drive\Personal Stuff\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Sound\Music\Chiptune Stronger than you.xnb
+C:\Users\hobbs\Google Drive\Personal Stuff\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Sound\Music\forest.ogg
+C:\Users\hobbs\Google Drive\Personal Stuff\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Sound\Music\forest.xnb
+C:\Users\hobbs\Google Drive\Personal Stuff\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Sound\Music\SecondTest.ogg
+C:\Users\hobbs\Google Drive\Personal Stuff\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Sound\Music\SecondTest.xnb
+C:\Users\hobbs\Google Drive\Personal Stuff\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Sound\Music\WelcomeToTheJungle.ogg
+C:\Users\hobbs\Google Drive\Personal Stuff\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Sound\Music\WelcomeToTheJungle.xnb
+C:\Users\hobbs\Google Drive\Personal Stuff\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Sprites\BasicPlayerSprite.xnb
+C:\Users\hobbs\Google Drive\Personal Stuff\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Sprites\ClosedChest.xnb
+C:\Users\hobbs\Google Drive\Personal Stuff\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Sprites\ClosedDoor.xnb
+C:\Users\hobbs\Google Drive\Personal Stuff\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Sprites\DefaultEnemy.xnb
+C:\Users\hobbs\Google Drive\Personal Stuff\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Sprites\DefaultPlayer.xnb
+C:\Users\hobbs\Google Drive\Personal Stuff\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Sprites\DefaultSmallEnemy.xnb
+C:\Users\hobbs\Google Drive\Personal Stuff\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Sprites\OpenChest.xnb
+C:\Users\hobbs\Google Drive\Personal Stuff\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Sprites\OpenDoor.xnb
+C:\Users\hobbs\Google Drive\Personal Stuff\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Sprites\StandingCharacter.xnb
+C:\Users\hobbs\Google Drive\Personal Stuff\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Sprites\WalkingSpriteSheet.xnb
+C:\Users\hobbs\Google Drive\Personal Stuff\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Tiled Maps\16x16TestMap.xnb
+C:\Users\hobbs\Google Drive\Personal Stuff\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Tiled Maps\32x32TestMap.xnb
+C:\Users\hobbs\Google Drive\Personal Stuff\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Tiled Maps\TestMap2.xnb
+C:\Users\hobbs\Google Drive\Personal Stuff\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Tiled Maps\TestNezMap.xnb
+C:\Users\hobbs\Google Drive\Personal Stuff\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Tilesets\characters.xnb
+C:\Users\hobbs\Google Drive\Personal Stuff\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Tilesets\goodly-2x.xnb
+C:\Users\hobbs\Google Drive\Personal Stuff\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Tilesets\MarioTileset.xnb
+C:\Users\hobbs\Google Drive\Personal Stuff\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Tilesets\NewTest16x16Tileset.xnb
+C:\Users\hobbs\Google Drive\Personal Stuff\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Tilesets\Test16x16Tileset.xnb
+C:\Users\hobbs\Google Drive\Personal Stuff\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\OpenTK.dll.config
+C:\Users\hobbs\Google Drive\Personal Stuff\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\NewTestGame.exe
+C:\Users\hobbs\Google Drive\Personal Stuff\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\NewTestGame.pdb
+C:\Users\hobbs\Google Drive\Personal Stuff\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\MonoGame.Framework.dll
+C:\Users\hobbs\Google Drive\Personal Stuff\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Nez.dll
+C:\Users\hobbs\Google Drive\Personal Stuff\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\NVorbis.dll
+C:\Users\hobbs\Google Drive\Personal Stuff\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\OpenTK.dll
+C:\Users\hobbs\Google Drive\Personal Stuff\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Nez.pdb
+C:\Users\hobbs\Google Drive\Personal Stuff\NewTestGame\NewTestGame\obj\x86\Debug\NewTestGame.csprojResolveAssemblyReference.cache
+C:\Users\hobbs\Google Drive\Personal Stuff\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Sprites\DefaultSword.xnb
+C:\Users\hobbs\Google Drive\Personal Stuff\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Sprites\DefaultSwordSpinningSpriteSheet.xnb
+C:\Users\hobbs\Google Drive\Personal Stuff\NewTestGame\NewTestGame\bin\DesktopGL\x86\Debug\Content\Sprites\DefaultSwordSpriteSheet.xnb

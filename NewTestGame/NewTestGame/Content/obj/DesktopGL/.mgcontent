@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/hobbs/Google Drive/Personal Stuff/NewTestGame/NewTestGame/Content/Sprites/OpenChest.png</File>
+    <File>C:/Users/hobbs/Google Drive/Personal Stuff/NewTestGame/NewTestGame/Content/Sprites/OpenDoor.png</File>
+    <File>C:/Users/hobbs/Google Drive/Personal Stuff/NewTestGame/NewTestGame/Content/Sprites/StandingCharacter.png</File>
+    <File>C:/Users/hobbs/Google Drive/Personal Stuff/NewTestGame/NewTestGame/Content/Tiled Maps/16x16TestMap.tmx</File>
+    <File>C:/Users/hobbs/Google Drive/Personal Stuff/NewTestGame/NewTestGame/Content/Tiled Maps/TestMap2.tmx</File>
+    <File>C:/Users/hobbs/Google Drive/Personal Stuff/NewTestGame/NewTestGame/Content/Tiled Maps/TestNezMap.tmx</File>
+    <File>C:/Users/hobbs/Google Drive/Personal Stuff/NewTestGame/NewTestGame/Content/Tilesets/characters.png</File>
+    <File>C:/Users/hobbs/Google Drive/Personal Stuff/NewTestGame/NewTestGame/Content/Tilesets/MarioTileset.png</File>
+    <File>C:/Users/hobbs/Google Drive/Personal Stuff/NewTestGame/NewTestGame/Content/Tilesets/NewTest16x16Tileset.png</File>
+    <File>C:/Users/hobbs/Google Drive/Personal Stuff/NewTestGame/NewTestGame/Content/Tilesets/Test16x16Tileset.png</File>
+    <File>C:/Users/hobbs/Google Drive/Personal Stuff/NewTestGame/NewTestGame/Content/Sound/Music/forest.wav</File>
+    <File>C:/Users/hobbs/Google Drive/Personal Stuff/NewTestGame/NewTestGame/Content/Sprites/ClosedChest.png</File>
+    <File>C:/Users/hobbs/Google Drive/Personal Stuff/NewTestGame/NewTestGame/Content/Sprites/ClosedDoor.png</File>
+    <File>C:/Users/hobbs/Google Drive/Personal Stuff/NewTestGame/NewTestGame/Content/Sprites/WalkingSpriteSheet.png</File>
+    <File>C:/Users/hobbs/Google Drive/Personal Stuff/NewTestGame/NewTestGame/Content/Tilesets/goodly-2x.png</File>
+    <File>C:/Users/hobbs/Google Drive/Personal Stuff/NewTestGame/NewTestGame/Content/Tiled Maps/32x32TestMap.tmx</File>
+    <File>C:/Users/hobbs/Google Drive/Personal Stuff/NewTestGame/NewTestGame/Content/Sprites/BasicPlayerSprite.png</File>
+    <File>C:/Users/hobbs/Google Drive/Personal Stuff/NewTestGame/NewTestGame/Content/Sprites/DefaultPlayer.png</File>
+    <File>C:/Users/hobbs/Google Drive/Personal Stuff/NewTestGame/NewTestGame/Content/Sprites/DefaultEnemy.png</File>
+    <File>C:/Users/hobbs/Google Drive/Personal Stuff/NewTestGame/NewTestGame/Content/Sprites/DefaultSmallEnemy.png</File>
+    <File>C:/Users/hobbs/Google Drive/Personal Stuff/NewTestGame/NewTestGame/Content/Sound/Music/WelcomeToTheJungle.mp3</File>
+    <File>C:/Users/hobbs/Google Drive/Personal Stuff/NewTestGame/NewTestGame/Content/Sound/Music/SecondTest.wav</File>
+    <File>C:/Users/hobbs/Google Drive/Personal Stuff/NewTestGame/NewTestGame/Content/Sound/Music/Chiptune Stronger than you.mp3</File>
+    <File>C:/Users/hobbs/Google Drive/Personal Stuff/NewTestGame/NewTestGame/Content/Sprites/DefaultSwordSpinningSpriteSheet.png</File>
+    <File>C:/Users/hobbs/Google Drive/Personal Stuff/NewTestGame/NewTestGame/Content/Sprites/DefaultSwordSpriteSheet.png</File>
+    <File>C:/Users/hobbs/Google Drive/Personal Stuff/NewTestGame/NewTestGame/Content/Sprites/DefaultSword.png</File>
+  </SourceFiles>
+</SourceFileCollection>

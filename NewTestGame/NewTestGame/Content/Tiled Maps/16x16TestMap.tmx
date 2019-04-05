@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="30" height="20" tilewidth="16" tileheight="16" nextobjectid="4">
+ <tileset firstgid="1" name="Test16x16Tileset" tilewidth="16" tileheight="16" tilecount="375" columns="25">
+  <image source="Test16x16Tileset.png" width="400" height="240"/>
+ </tileset>
+ <layer name="Background" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzbwcDAsGMI4ZxRe0ftHbV31N5Re0ftHcWjeJBjAKyuq3Q=
+  </data>
+ </layer>
+ <layer name="Layer1" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzF08cNwjAYQGEPQluCtgRtCdoFmIB2gUxAk0KZgDYfj4NFEuLIVmLnl76blZc4thDh2WCrcFVQrU8SHVXXS1jr59QNStqvrLoX8b/nuv9J51lft5i1cWPy3tEpoIgSyqhoNtN2q6ihjgaaBt00+9VCGx100TPoppk+BhhihLGj7hwLLLHC2nJvgil22OOAI06Wu/Is3vHAEy+8HXTPInz+5R7MLHdlzxe/e6d7/7LoBu97Hl0Xk3dXni1XE/1el93gPbI5H997bKQ=
+  </data>
+ </layer>
+ <layer name="Layer2" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYCAfdAJxFxbcTYGZpNi7YIDsRcYL6WDvIiBejAUvobG9o2AUDGZQAMSFaLiIDvailwMLGGhfBsDsXchA3zIPZi+yXwfC3oHyLwzTAwy0vbC0RS+A7l962oucj2gJAKkBK9M=
+  </data>
+ </layer>
+ <layer name="Layer3" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMAqIB8uhdB8WOUcgdoJiXEATjZ9LDUeNglEwyAAA1uUCkQ==
+  </data>
+ </layer>
+ <layer name="CollidableLayer1" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMAoGL1ACYk4g5oDSIMyFxIbxYfLKWMzghsqD1PEgqeXCY68KEKviwMFIbEUorUaiGcTaq8iA2wxa2kvIDdS2l5A/YWpo5d9gBvx+JtVeADjND6A=
+  </data>
+ </layer>
+ <layer name="Layer4" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMAqIAz1QehkQh0PZ4VD+MiR+Lx4zwgnwR8EoGA4AAI0mBL8=
+  </data>
+ </layer>
+ <objectgroup name="ObjLayer1">
+  <object id="2" name="SpawnPoint" x="181.5" y="182.5" width="14.5" height="26"/>
+ </objectgroup>
+</map>
